@@ -99,7 +99,7 @@
         "esbuild": "^0.25.0",
         "express": "^4.21.2",
         "extract-zip": "^2.0.1",
-        "glob": "^11.0.3",
+        "glob": "^12.0.0",
         "inquirer": "^9.2.15",
         "knip": "^5.61.1",
         "log-update": "^6.1.0",
