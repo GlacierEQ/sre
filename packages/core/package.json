@@ -48,7 +48,7 @@
         "cross-env": "^7.0.3",
         "ctix": "^2.7.1",
         "dependency-cruiser": "^16.3.3",
-        "esbuild": "^0.25.0",
+        "esbuild": "^0.28.1",
         "knip": "^5.23.1",
         "nyc": "^17.0.0",
         "rollup-plugin-esbuild": "^6.1.1",
