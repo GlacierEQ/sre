@@ -95,7 +95,7 @@
         "gpt-tokenizer": "^2.2.1",
         "groq-sdk": "^0.6.1",
         "htmlparser2": "^10.0.0",
-        "image-size": "^1.1.1",
+        "image-size": "^2.0.2",
         "ioredis": "^5.4.1",
         "isbinaryfile": "^5.0.2",
         "joi": "^17.13.1",
